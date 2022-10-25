@@ -2,43 +2,43 @@
   {
     "id": 1,
     "name": "Javascript",
-    "Description": "Hi Javascript",
+    "Description": "Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers.",
     "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
-    "duration": "150m"
+    "duration": "120m"
   },
   {
     "id": 2,
     "name": "C programming",
-    "Description": "Hi python",
+    "Description": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.",
     "img": "https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg",
     "duration": "100m"
   },
   {
     "id": 3,
     "name": "Python",
-    "Description": "Hi python",
+    "Description": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis.",
     "img": "https://cdn.thenewstack.io/media/2021/11/ab06a958-pythonlogo.png",
     "duration": "80m"
   },
   {
     "id": 4,
     "name": "C# programming",
-    "Description": "Hi python",
+    "Description": "C# (pronounced 'See Sharp') is a modern, object-oriented, and type-safe programming language",
     "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
-    "duration": "900m"
+    "duration": "90m"
   },
   {
     "id": 5,
     "name": "React",
-    "Description": "Hi python",
+    "Description": "The ReactJS building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
     "img": "https://www.sipexe.com/assets/courses/react.jpg",
-    "duration": "100m"
+    "duration": "70m"
   },
   {
     "id": 6,
     "name": "Java",
-    "Description": "Hi python",
+    "Description": "Java is a programming language used for creating software that makes it compatible with many different operating environments.",
     "img": "https://m.com-magazin.de/img/1/5/8/6/6/7/8/20210726UmgangMitJava_teas_quelleOracleCom_w640_h400.jpg",
-    "duration": "100m"
+    "duration": "110m"
   }
 ]
