@@ -5,6 +5,40 @@
     "Description": "Hi Javascript",
     "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
     "duration": "150m"
+  },
+  {
+    "id": 2,
+    "name": "Python",
+    "Description": "Hi python",
+    "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+    "duration": "150m"
+  },
+  {
+    "id": 3,
+    "name": "Python",
+    "Description": "Hi python",
+    "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+    "duration": "150m"
+  },
+  {
+    "id": 4,
+    "name": "Python",
+    "Description": "Hi python",
+    "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+    "duration": "150m"
+  },
+  {
+    "id": 5,
+    "name": "Python",
+    "Description": "Hi python",
+    "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+    "duration": "150m"
+  },
+  {
+    "id": 6,
+    "name": "Python",
+    "Description": "Hi python",
+    "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+    "duration": "150m"
   }
 ]
-
