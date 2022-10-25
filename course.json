@@ -10,14 +10,14 @@
     "id": 2,
     "name": "C programming",
     "Description": "Hi python",
-    "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+    "img": "https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg",
     "duration": "100m"
   },
   {
     "id": 3,
     "name": "Python",
     "Description": "Hi python",
-    "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+    "img": "https://cdn.thenewstack.io/media/2021/11/ab06a958-pythonlogo.png",
     "duration": "80m"
   },
   {
@@ -29,16 +29,16 @@
   },
   {
     "id": 5,
-    "name": "Python",
+    "name": "React",
     "Description": "Hi python",
-    "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+    "img": "https://www.sipexe.com/assets/courses/react.jpg",
     "duration": "100m"
   },
   {
     "id": 6,
     "name": "Java",
     "Description": "Hi python",
-    "img": "https://oportaln10.com.br/wp-content/uploads/2019/01/javascript.jpg",
+    "img": "https://m.com-magazin.de/img/1/5/8/6/6/7/8/20210726UmgangMitJava_teas_quelleOracleCom_w640_h400.jpg",
     "duration": "100m"
   }
 ]
